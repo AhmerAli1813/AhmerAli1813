@@ -2,7 +2,7 @@
 
 Hello there! I'm **Ahmer Ali**, a passionate **Software Engineer** with experience in **JavaScript**, **.NET 8**, and **React**. I love building impactful web applications and exploring new technologies that help me stay ahead in this ever-evolving tech world.
 
----
+--- 
 
 ### 🚀 **What I Do**
 - **Frontend Development**: 💻 Creating smooth, intuitive, and user-friendly web experiences using **React**.
