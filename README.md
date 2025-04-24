@@ -76,6 +76,24 @@ A responsive, dynamic food delivery website built with **PHP**, focused on UX an
 
 ---
 
+## 🏅 GitHub Achievements
+
+Here are a few cool badges earned along the way:
+
+- 🌟 **Starstruck** – Received stars on multiple repositories.
+- 🐋 **Pull Shark** – Merged multiple pull requests.
+- 🤝 **Pair Extraordinaire** – Collaborated on co-authored PRs.
+- ⚡ **Quickdraw** – Closed issues or PRs quickly.
+- 🧠 **Galaxy Brain** – Provided helpful answers in GitHub Discussions.
+- ❤️ **Heart On Your Sleeve** – Reacted to others’ contributions.
+- 🛡️ **Open Sourcerer** – Contributed to open-source across multiple repos.
+- 🚀 **YOLO** – Merged PRs without reviews (carefully 😄).
+
+
+You can view these on my [GitHub Achievements](https://github.com/users/AhmerAli1813/achievements) page!
+
+---
+
 ## 💬 Let’s Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/AhmerAli1813)
