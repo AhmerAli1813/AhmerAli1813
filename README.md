@@ -1,83 +1,98 @@
 # 👨‍💻 Welcome to My GitHub Profile!
 
-Hello there! I'm **Ahmer Ali**, a passionate **Software Engineer** skilled in **JavaScript**, **.NET 8**, and **React**. I love crafting impactful web applications and diving into new technologies to stay ahead in this ever-evolving tech world.
+Hi there! I'm **Ahmer Ali**, a passionate **Software Engineer** with a strong foundation in **JavaScript**, **.NET 8**, **React**, and backend technologies. I love solving real-world problems with code, and I’m constantly learning to stay ahead in this fast-paced tech world.
 
 ---
 
-### 🚀 **What I Do**
-- **Frontend Development**: 💻 Creating smooth, intuitive, and user-friendly web interfaces using **React**.
-- **Backend Development**: 🔧 Building robust, scalable APIs and services with **.NET 8**.
-- **Full-stack Development**: Bringing it all together to deliver complete, end-to-end solutions.
+## 🚀 What I Do
+
+- 💻 **Frontend Development** – Building clean, responsive UIs using **React**.
+- 🔧 **Backend Development** – Crafting scalable APIs and business logic with **.NET 8**.
+- 🌐 **Full-Stack Development** – End-to-end solutions from UI to database.
+- ☁️ **Cloud & DevOps** – Deploying applications to **Azure**, exploring Docker & CI/CD.
 
 ---
 
-### 🧑‍💻 **Tech Stack**
+## 🧑‍💻 Tech Stack
 
-**Languages**:
+**Languages:**
 - JavaScript
-- TypeScript (Basic)
+- TypeScript *(Basic)*
 - C# (.NET 8)
+- PHP
 
-**Frameworks & Libraries**:
-- **React.js** (Frontend)
-- **Next.js** (Server-side Rendering)
-- **Node.js** (Backend APIs)
-- **.NET 8** (Backend)
+**Frameworks & Libraries:**
+- React.js
+- Next.js
+- Node.js
+- .NET 8
+- MVC Pattern
+- Repository Pattern
 
-**Tools & Platforms**:
+**Tools & Platforms:**
 - Visual Studio Code
 - Git & GitHub
 - Docker
 - PostgreSQL
+- Azure
 - RESTful APIs
-- Azure (Cloud & DevOps)
 
 ---
 
-### 🔧 **Currently Learning**
+## 🔧 Currently Learning
+
 - Advanced **TypeScript**
 - **GraphQL** APIs
-- DevOps tools (CI/CD, Kubernetes)
+- **DevOps** with Kubernetes & CI/CD
 - **Microservices** architecture
 
 ---
 
-### 📚 **My Projects**
+## 📚 Featured Projects
 
-- 🤖 **WhatsApp Bot** – Built with **.NET 8 Web API**, this bot enables smart messaging capabilities via WhatsApp, ideal for customer interaction and automation.
+### 🤖 WhatsApp Bot – [.NET 8 Web API]
+Smart bot integrated with WhatsApp to automate messages and customer interactions.
 
-- 🛠️ **Online Help Desk** – A responsive support ticketing system using **.NET MVC** and the **Repository Pattern**, designed to streamline IT support operations.
+### 🛠️ Online Help Desk – [.NET MVC, Repository Pattern]
+Support ticketing system designed to simplify IT support operations.
 
-- 🛒 **Point of Sale (POS)** – A modern POS system developed using **React** (frontend) and **.NET 8 Web API** (backend), implementing the **Repository Pattern** for clean, maintainable code.
+### 🛒 Point of Sale System – [React + .NET 8 Web API]
+Modern POS system using the **Repository Pattern**, scalable and user-friendly.
 
-🔗 Explore more in the [Repositories section](https://github.com/AhmerAli1813).
+### 🍔 Food Website – [PHP]
+A responsive, dynamic food delivery website built with **PHP**, focused on UX and real-time order management.
+
+🔗 View more in my [GitHub Repositories](https://github.com/AhmerAli1813)
 
 ---
 
-### 📈 **GitHub Stats**
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmerAli1813&count_private=true&show_icons=true&theme=tokyonight&hide_title=true&hide=prs" alt="Ahmer's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmerAli1813&count_private=true&show_icons=true&theme=tokyonight&hide_title=true&hide=prs" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmerAli1813&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 💬 **Let's Connect!**
-- Reach out here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/AhmerAli1813).
-- I'm always open to new collaborations, discussions, or open-source contributions!
+## 💬 Let’s Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/AhmerAli1813)
+- 💌 Message me here on GitHub for collaborations, discussions, or just to say hi!
 
 ---
 
-### 👨‍💻 **Fun Fact About Me**
-When I'm not coding, you'll find me exploring **machine learning**, solving puzzles, or diving into **UI/UX** design. I’m also an avid reader and a tech enthusiast.
+## 👨‍💻 Fun Fact
+
+When I'm not coding, I'm diving into **machine learning**, reading tech books, or sketching UI/UX designs. I love blending creativity with logic.
 
 ---
 
-### ⚡️ **Favorite Tech Quote**
+## ⚡️ Favorite Tech Quote
+
 > _"Simplicity is the soul of efficiency."_ – Austin Freeman
 
 ---
 
-Thanks for stopping by! I hope you enjoy browsing through my work — feel free to explore, contribute, or reach out. Let’s build the future, one line of code at a time! 🚀
+Thanks for stopping by! Feel free to explore my work, contribute, or reach out. Let’s build something amazing together! 🚀
